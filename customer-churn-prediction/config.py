@@ -1,7 +1,7 @@
 snowflake_conn_prop = {
-   "account": "ACCOUNT",
-   "user": "USER",
-   "password": "PASSWORD",
+   "account": "FY45510.ca-central-1.aws",
+   "user": "AOLSON2",
+   "password": "Password123",
    "role": "ACCOUNTADMIN",
    "database": "snowpark_quickstart",
    "schema": "TELCO",
